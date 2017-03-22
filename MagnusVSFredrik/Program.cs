@@ -12,6 +12,12 @@ namespace MagnusVSFredrik
         {
             //Magnus was here first
             //Då får väl jag vara nummer två..
+
+            for (int i = 0; i < 100; i++)
+            {
+                Console.WriteLine(i);
+                Console.WriteLine("F..");
+            }
         }
     }
 }
