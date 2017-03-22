@@ -11,6 +11,7 @@ namespace MagnusVSFredrik
         static void Main(string[] args)
         {
             //Magnus was here first
+            //Då får väl jag vara nummer två..
         }
     }
 }
